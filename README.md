@@ -13,7 +13,7 @@ This project is a Streamlit-based web application that displays stock price data
 1. Clone the repository:
 
    ```
-   git clone https://github.com/yourusername/stock-ticker-sentiment.git
+   git clone https://github.com/muchofunkable/stock-ticker-sentiment.git
    cd stock-ticker-sentiment
    ```
 
